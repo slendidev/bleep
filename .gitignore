@@ -1,0 +1,7 @@
+.cache
+.vscode
+*.so
+*.h
+compile_commands.json
+bleep
+
